@@ -1,0 +1,11 @@
+EQ Trainer — unreleased
+
+- Train: hidden EQ boosts/cuts, three difficulty levels, graph-click answers,
+  scoring, and saved history. Guesses snap to the same bands as targets.
+- Learn: frequency sweeps, ±15 dB gain, Q controls, and a live spectrum.
+- Audio: pink noise, synthesized groove, local files, and Original / EQ comparison.
+- Controls: keyboard shortcuts, explained settings, dB/Q help, and responsive layout.
+- Playback and storage: pause/resume, upload race handling, hidden-target isolation,
+  and cross-tab history sync.
+- Tests: DSP, scoring, storage, and desktop/mobile-sized browser coverage.
+- Hosting: static build and automated GitHub Pages deployment.
