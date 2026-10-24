@@ -4,7 +4,7 @@
 
 My take on an EQ trainer, built for my own untrained ears. Entirely AI-coded—I just needed a tool that worked. Feel free to use the code, change it, and share your own version. Tools like this should be free.
 
-Practice hearing EQ boosts and cuts. Runs in your browser. No accounts, backend, or API keys. Audio files stay on your device.
+Practice hearing EQ boosts and cuts. Fully keyboard-driven, with Vim-style H/J/K/L controls. Runs in your browser. No accounts, backend, or API keys. Audio files stay on your device.
 
 ![Frequency in Train mode, with the frequency graph and listening controls](docs/images/eq-trainer-train.png)
 
